@@ -6,6 +6,7 @@ $(document).ready(function(){
     $("#hello").text("Hello, " + name);
   });
 
+//wo0w
   //examine event object
   // $('form').on('submit', function(event){
   //   var name = $('#name').val();
